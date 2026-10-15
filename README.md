@@ -35,6 +35,11 @@ The goal is to recreate the classic MSN Messenger experience on modern Android d
 - A compatible JDK
 - An Android device or emulator
 
+ ## License
+
+MIT
+
+
 ### Clone the Repository
 
 ```bash
