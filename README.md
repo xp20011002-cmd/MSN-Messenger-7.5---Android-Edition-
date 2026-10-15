@@ -35,13 +35,14 @@ The goal is to recreate the classic MSN Messenger experience on modern Android d
 - A compatible JDK
 - An Android device or emulator
 
- ## License
-
-MIT
-
 
 ### Clone the Repository
 
 ```bash
 git clone "https://github.com/xp20011002-cmd/MSN-Messenger-7.5---Android-Edition-.git"
 cd MSN-Messenger-7.5---Android-Edition-
+
+
+### License
+
+MIT
